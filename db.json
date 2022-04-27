@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "name": "Suhaib Gour",
+      "age": "22",
+      "address": "Roorkee, haridwar , uk",
+      "department": "department-2",
+      "salary": "100000",
+      "maritalState": "Unmarried",
+      "id": 1
+    },
+    {
+      "name": "Ayush",
+      "age": "22",
+      "address": "Roorkee, haridwar , uk",
+      "department": "department-3",
+      "salary": "100000",
+      "maritalState": "Unmarried",
+      "id": 2
+    },
+    {
+      "name": "Abas kaur",
+      "age": "29",
+      "address": "dehradun , uk",
+      "department": "department-1",
+      "salary": "180000",
+      "maritalState": "Married",
+      "id": 3
+    },
+    {
+      "name": "Kajal",
+      "age": "44",
+      "address": "new delhi, delhi india",
+      "department": "department-3",
+      "salary": "100000",
+      "maritalState": "Married",
+      "id": 4
+    },
+    {
+      "name": "Kajal",
+      "age": "44",
+      "address": "new delhi, delhi india",
+      "department": "department-3",
+      "salary": "100000",
+      "maritalState": "Married",
+      "id": 5
+    }
+  ]
+}
